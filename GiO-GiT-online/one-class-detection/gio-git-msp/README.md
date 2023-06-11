@@ -1,4 +1,7 @@
 ## Running the code
+```
+cd job
+```
 * Baseline
 ```
 cd job
