@@ -1,5 +1,5 @@
 ## Running the code
-*Baseline
+**Baseline
 ```
 cd job
 job_bsl.sh  # training
