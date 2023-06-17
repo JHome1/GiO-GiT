@@ -4,7 +4,7 @@ cd job
 ```
 * Baseline
 ```
-job_bsl.sh  # training
+job_bsl.sh     # training
 ```
 * SiT
 ```
@@ -12,9 +12,9 @@ job_sphere.sh  # training
 ```
 * HiT
 ```
-job_hyper.sh  # training
+job_hyper.sh   # training
 ```
 * MiT
 ```
-job_mix.sh  # training
+job_mix.sh     # training
 ```
