@@ -1,6 +1,6 @@
 # GiO-GiT
 This repository is for GiO-GiT proposed in the following paper:  
-**Curved Geometric Networks for Visual Anomaly Recognition**
+**"Curved Geometric Networks for Visual Anomaly Recognition"**.
 
 ## Paper and Citation
 The paper can be downloaded from [arXiv](https://arxiv.org/abs/2208.01188).  
